@@ -1,5 +1,8 @@
 _repo: Livro-de-Soror-Saudade_68691
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68691-h/images/soror_cover.jpg
 creator:
   author:
     agent_name: Espanca, Florbela de Alma da Conceição
@@ -12,6 +15,8 @@ creator:
     - http://pt.wikipedia.org/wiki/Florbela_Espanca
     - http://en.wikipedia.org/wiki/Florbela_Espanca
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68691#Livro-de-Soror-Saudade
 gutenberg_issued: '2022-08-05'
 identifiers:
   gutenberg: '68691'
