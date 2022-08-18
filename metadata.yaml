@@ -1,0 +1,32 @@
+_repo: Livro-de-Soror-Saudade_68691
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Espanca, Florbela de Alma da Conceição
+    alias: Espanca, Florbela de Alma da Conceicao
+    birthdate: 1894
+    deathdate: 1930
+    gutenberg_agent_id: '7488'
+    url: http://www.gutenberg.org/2009/agents/7488
+    wikipedia:
+    - http://pt.wikipedia.org/wiki/Florbela_Espanca
+    - http://en.wikipedia.org/wiki/Florbela_Espanca
+description: ''
+gutenberg_issued: '2022-08-05'
+identifiers:
+  gutenberg: '68691'
+language: pt
+pgterms:marc904: https://catalog.hathitrust.org/Record/010225946
+pgterms:marc905: 20220804083543espanca
+pgterms:marc906: '1923'
+pgterms:marc907: PT
+production_note: Laura Natal Rodrigues (Images generously made available by Hathi
+  Trust Digital Library.)
+publication_note: Portugal :Edição da Autora,1923.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Livro de "Soror Saudade"
+url: http://www.gutenberg.org/ebooks/68691
